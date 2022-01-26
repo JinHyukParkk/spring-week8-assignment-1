@@ -63,7 +63,7 @@ public class ProductService {
     /**
      * 주어진 id를 가진 Product를 ProductData로 수정하고, 수정된 Product를 리턴합니다.
      *
-     * @param id 수정될 Product의 식별자
+     * @param id          수정될 Product의 식별자
      * @param productData 수정될 Product 데이터
      * @return 수정된 Product
      * @throws ProductNotFoundException 주어진 id의 Product를 찾을 수 없는 경우

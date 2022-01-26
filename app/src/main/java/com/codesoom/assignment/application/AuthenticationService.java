@@ -37,7 +37,7 @@ public class AuthenticationService {
     /**
      * 주어진 email과 password를 가진 유저를 찾고, 유저의 id 값을 리턴합니다.
      *
-     * @param email 유저의 이메일
+     * @param email    유저의 이메일
      * @param password 유저의 패스워드
      * @return 유저의 id
      */
